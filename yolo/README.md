@@ -12,4 +12,5 @@ Sucessfully detect the numbers using one of the image card examples, the origina
 <li>Classes = 15</li>
 <li>name = "uno-cards"</li>
 <ol>
+
 2. 
