@@ -10,4 +10,6 @@
 Two types of edge detections using hough transform.
 
 
-> Explanated thoroughly in the notebook.
+> Explanied thoroughly in the notebook.
+
+3. RANSAC image stitching.
