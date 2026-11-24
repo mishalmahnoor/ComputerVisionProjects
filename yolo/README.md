@@ -6,9 +6,10 @@
 
 Sucessfully detect the numbers using one of the image card examples, the original dataset had ~9k images, of which i used 1600 and 32 epochs to train the model. The model performs well on the new test example detecting with confidence score >=85. 
 
-Epochs = 32.
-Images = 1600
-Classes = 15
-name = "uno-cards"
-
+<ol>
+<li>Epochs = 32.</li>
+<li>Images = 1600</li>
+<li>Classes = 15</li>
+<li>name = "uno-cards"</li>
+<ol>
 2. 
