@@ -6,7 +6,7 @@ has three CNN "archi" types, normal, wider and deeper network.
 #### Wider:
 Add a larger convolution filter, such as increasing from 26 -> 32.
 
-### Deeper: 
+#### Deeper: 
 Add more convolution layers.
 
 Code using tensors in tensorflow:
